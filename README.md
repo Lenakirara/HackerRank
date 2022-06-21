@@ -1,6 +1,6 @@
 # HackerRank
 
-## SQL solutions
+## SQL Solutions
 
 ### Basic Select Challenges
 
@@ -24,3 +24,11 @@
 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) | Easy | [Solution.16](https://github.com/Lenakirara/HackerRank/blob/main/SQL/Basic_Select_Challenges/Weather_Observation_Station%20_11.sql) |
 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | Easy | [Solution.17](https://github.com/Lenakirara/HackerRank/blob/main/SQL/Basic_Select_Challenges/Weather_Observation_Station_12.sql) |
 
+---
+## Python Solutions
+
+### Introduction
+
+| Challenge | Difficulty | Solution |
+|-----------|------------|----------|
+| [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | Easy | [Solution.1]() |
