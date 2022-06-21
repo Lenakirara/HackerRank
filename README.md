@@ -44,3 +44,11 @@
 |-----------|------------|----------|
 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | Easy | [Solution.1](https://github.com/Lenakirara/HackerRank/blob/main/Python/Basic_Data_Types/Lists.py) |
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true) | Easy | [Solution.2](https://github.com/Lenakirara/HackerRank/blob/main/Python/Basic_Data_Types/Tuples.py) |
+
+### Math
+
+| Challenge | Difficulty | Solution |
+|-----------|------------|----------|
+| [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true) | Easy | [Solution.1](https://github.com/Lenakirara/HackerRank/blob/main/Python/Math/Mod_Divmod.py) |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true) | Easy | [Solution.2](https://github.com/Lenakirara/HackerRank/blob/main/Python/Math/Power_Mod_Power.py) |
+| [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) | Easy | [Solution.3](https://github.com/Lenakirara/HackerRank/blob/main/Python/Math/Integers_Come_In_All_Sizes.py) |
