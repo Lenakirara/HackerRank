@@ -31,4 +31,9 @@
 
 | Challenge | Difficulty | Solution |
 |-----------|------------|----------|
-| [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | Easy | [Solution.1]() |
+| [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | Easy | [Solution.1](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Say_Hello_World_With_Python.py) |
+| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | Easy | [Solution.2](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Python_If_Else.py) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | Easy | [Solution.3](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Arithmetic_Operators.py) |
+| [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | Easy | [Solution.4](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Python_Division.py) |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | Easy | [Solution.5](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Loops.py) |
+| [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | Easy | [Solution.6](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Print_Function.py) |
