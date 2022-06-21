@@ -1,8 +1,8 @@
 # HackerRank
 
-SQL solutions
+## SQL solutions
 
-## Basic Select Challenges
+### Basic Select Challenges
 
 | Challenge | Difficulty | Solution |
 |-----------|------------|----------|
