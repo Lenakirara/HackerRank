@@ -37,3 +37,10 @@
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | Easy | [Solution.4](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Python_Division.py) |
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | Easy | [Solution.5](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Loops.py) |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | Easy | [Solution.6](https://github.com/Lenakirara/HackerRank/blob/main/Python/Introduction/Print_Function.py) |
+
+### Basic Data Types
+
+| Challenge | Difficulty | Solution |
+|-----------|------------|----------|
+| [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | Easy | [Solution.1](https://github.com/Lenakirara/HackerRank/blob/main/Python/Basic_Data_Types/Lists.py) |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true) | Easy | [Solution.2](https://github.com/Lenakirara/HackerRank/blob/main/Python/Basic_Data_Types/Tuples.py) |
